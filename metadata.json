@@ -1,0 +1,6 @@
+{
+  "name": "MobiRepair",
+  "description": "Mobile Repair & Inventory Management with dynamic UPI QR billing, WhatsApp customer updates, and shared parts compatibility matrix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
